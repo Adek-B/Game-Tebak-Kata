@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572347541 source:d:\university\programming\semester 5\game programming\tebakkata\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
